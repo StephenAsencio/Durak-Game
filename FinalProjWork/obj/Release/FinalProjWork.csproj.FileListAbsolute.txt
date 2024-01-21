@@ -1,0 +1,15 @@
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Release\FinalProjWork.exe.config
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Release\FinalProjWork.exe
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Release\FinalProjWork.pdb
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Release\CardBox.dll
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Release\Ch13CardLib.dll
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Release\CardBox.pdb
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Release\Ch13CardLib.pdb
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Release\FinalProjWork.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Release\FinalProjWork.GameSettingForm.resources
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Release\FinalProjWork.GameGUI.resources
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Release\FinalProjWork.Properties.Resources.resources
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Release\FinalProjWork.csproj.GenerateResource.cache
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Release\FinalProjWork.csproj.CopyComplete
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Release\FinalProjWork.exe
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Release\FinalProjWork.pdb

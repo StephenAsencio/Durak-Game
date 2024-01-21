@@ -1,0 +1,6 @@
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Release\Ch13CardLib.dll
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Release\Ch13CardLib.pdb
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Release\Ch13CardLib.Properties.Resources.resources
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Release\Ch13CardLib.csproj.GenerateResource.cache
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Release\Ch13CardLib.dll
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Release\Ch13CardLib.pdb

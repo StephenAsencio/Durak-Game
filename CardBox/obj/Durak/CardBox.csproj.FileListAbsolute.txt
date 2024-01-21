@@ -1,0 +1,10 @@
+C:\Users\steph\Desktop\FinalProjWork\CardBox\bin\Durak\CardBox.dll
+C:\Users\steph\Desktop\FinalProjWork\CardBox\bin\Durak\CardBox.pdb
+C:\Users\steph\Desktop\FinalProjWork\CardBox\bin\Durak\Ch13CardLib.dll
+C:\Users\steph\Desktop\FinalProjWork\CardBox\bin\Durak\Ch13CardLib.pdb
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Durak\CardBox.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Durak\CardBox.CardBox.resources
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Durak\CardBox.csproj.GenerateResource.cache
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Durak\CardBox.csproj.CopyComplete
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Durak\CardBox.dll
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Durak\CardBox.pdb

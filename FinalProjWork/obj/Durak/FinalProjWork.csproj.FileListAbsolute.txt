@@ -1,0 +1,15 @@
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Durak\FinalProjWork.exe.config
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Durak\FinalProjWork.exe
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Durak\FinalProjWork.pdb
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Durak\CardBox.dll
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Durak\Ch13CardLib.dll
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Durak\CardBox.pdb
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Durak\Ch13CardLib.pdb
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Durak\FinalProjWork.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Durak\FinalProjWork.GameSettingForm.resources
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Durak\FinalProjWork.GameGUI.resources
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Durak\FinalProjWork.Properties.Resources.resources
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Durak\FinalProjWork.csproj.GenerateResource.cache
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Durak\FinalProjWork.csproj.CopyComplete
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Durak\FinalProjWork.exe
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Durak\FinalProjWork.pdb

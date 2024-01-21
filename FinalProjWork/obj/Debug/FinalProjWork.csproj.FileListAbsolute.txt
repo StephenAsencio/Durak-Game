@@ -1,0 +1,94 @@
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.exe.config
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.exe
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.pdb
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\FinalProjWork\bin\Debug\Ch13CardLib.dll
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\FinalProjWork\bin\Debug\Ch13CardLib.pdb
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csprojResolveAssemblyReference.cache
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.Form1.resources
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.Properties.Resources.resources
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csproj.GenerateResource.Cache
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.exe
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.pdb
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.exe.config
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.exe
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.pdb
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\bin\Debug\Ch13CardLib.dll
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\bin\Debug\Ch13CardLib.pdb
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csprojAssemblyReference.cache
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.Form1.resources
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.GameGUI.resources
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.Properties.Resources.resources
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csproj.GenerateResource.cache
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csproj.CopyComplete
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.exe
+C:\Users\Jesse\Downloads\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.pdb
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.exe.config
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.exe
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.pdb
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Debug\Ch13CardLib.dll
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Debug\Ch13CardLib.pdb
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.GameGUI.resources
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.Properties.Resources.resources
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csproj.GenerateResource.cache
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csproj.CopyComplete
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.exe
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.pdb
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\obj\Debug\FinalProjWork.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\obj\Debug\FinalProjWork.GameGUI.resources
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\obj\Debug\FinalProjWork.Properties.Resources.resources
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\obj\Debug\FinalProjWork.csproj.GenerateResource.cache
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\obj\Debug\FinalProjWork.exe
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\obj\Debug\FinalProjWork.pdb
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\bin\Debug\FinalProjWork.exe.config
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\bin\Debug\FinalProjWork.exe
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\bin\Debug\FinalProjWork.pdb
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\bin\Debug\Ch13CardLib.dll
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\bin\Debug\Ch13CardLib.pdb
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\obj\Debug\FinalProjWork.csproj.CopyComplete
+C:\Users\steph\Desktop\FinalProjWork - Copy\FinalProjWork\obj\Debug\FinalProjWork.GameSettingForm.resources
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.exe.config
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.exe
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.pdb
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\bin\Debug\Ch13CardLib.dll
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\bin\Debug\Ch13CardLib.pdb
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csprojAssemblyReference.cache
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.GameSettingForm.resources
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.GameGUI.resources
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.Properties.Resources.resources
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csproj.GenerateResource.cache
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csproj.CopyComplete
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.exe
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.pdb
+D:\Durham\OOP\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.exe.config
+D:\Durham\OOP\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.exe
+D:\Durham\OOP\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.pdb
+D:\Durham\OOP\FinalProjWork\FinalProjWork\bin\Debug\Ch13CardLib.dll
+D:\Durham\OOP\FinalProjWork\FinalProjWork\bin\Debug\Ch13CardLib.pdb
+D:\Durham\OOP\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csprojAssemblyReference.cache
+D:\Durham\OOP\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.GameSettingForm.resources
+D:\Durham\OOP\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.GameGUI.resources
+D:\Durham\OOP\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.Properties.Resources.resources
+D:\Durham\OOP\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csproj.GenerateResource.cache
+D:\Durham\OOP\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csproj.CoreCompileInputs.cache
+D:\Durham\OOP\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csproj.CopyComplete
+D:\Durham\OOP\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.exe
+D:\Durham\OOP\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.pdb
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.exe.config
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.exe
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.pdb
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.exe
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\bin\Debug\FinalProjWork.pdb
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\bin\Debug\Ch13CardLib.dll
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\bin\Debug\Ch13CardLib.pdb
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csprojResolveAssemblyReference.cache
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.GameSettingForm.resources
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.GameGUI.resources
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.Properties.Resources.resources
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.csproj.GenerateResource.Cache
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\bin\Debug\CardBox.dll
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\FinalProjWork\bin\Debug\CardBox.pdb
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Debug\CardBox.dll
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\bin\Debug\CardBox.pdb
+C:\Users\steph\Desktop\FinalProjWork\FinalProjWork\obj\Debug\FinalProjWork.GameSettingForm.resources

@@ -1,0 +1,30 @@
+D:\Durham\OOP\CardLibrary\CardBox\bin\Debug\CardBox.dll
+D:\Durham\OOP\CardLibrary\CardBox\bin\Debug\CardBox.pdb
+D:\Durham\OOP\CardLibrary\CardBox\bin\Debug\CardLibrary.dll
+D:\Durham\OOP\CardLibrary\CardBox\bin\Debug\CardLibrary.pdb
+D:\Durham\OOP\CardLibrary\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+D:\Durham\OOP\CardLibrary\CardBox\obj\Debug\CardBox.CardBox.resources
+D:\Durham\OOP\CardLibrary\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+D:\Durham\OOP\CardLibrary\CardBox\obj\Debug\CardBox.csproj.CoreCompileInputs.cache
+D:\Durham\OOP\CardLibrary\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+D:\Durham\OOP\CardLibrary\CardBox\obj\Debug\CardBox.dll
+D:\Durham\OOP\CardLibrary\CardBox\obj\Debug\CardBox.pdb
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\CardBox\bin\Debug\CardBox.dll
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\CardBox\bin\Debug\CardBox.pdb
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\CardBox\bin\Debug\Ch13CardLib.dll
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\CardBox\bin\Debug\Ch13CardLib.pdb
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\CardBox\obj\Debug\CardBox.csprojResolveAssemblyReference.cache
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\CardBox\obj\Debug\CardBox.dll
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\CardBox\obj\Debug\CardBox.pdb
+C:\Users\steph\Desktop\FinalProjWork\CardBox\bin\Debug\CardBox.dll
+C:\Users\steph\Desktop\FinalProjWork\CardBox\bin\Debug\CardBox.pdb
+C:\Users\steph\Desktop\FinalProjWork\CardBox\bin\Debug\Ch13CardLib.dll
+C:\Users\steph\Desktop\FinalProjWork\CardBox\bin\Debug\Ch13CardLib.pdb
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Debug\CardBox.dll
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Debug\CardBox.pdb

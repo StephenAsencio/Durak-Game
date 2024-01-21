@@ -1,0 +1,43 @@
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csprojResolveAssemblyReference.cache
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csprojResolveAssemblyReference.cache
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
+C:\Users\Jesse\Downloads\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+C:\Users\Jesse\Downloads\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+C:\Users\Jesse\Downloads\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csprojAssemblyReference.cache
+C:\Users\Jesse\Downloads\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Downloads\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+C:\Users\Jesse\Downloads\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csprojAssemblyReference.cache
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+C:\Users\16472\Documents\Visual Studio 2015\Projects\OOP_3\Bitch__AHAA\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
+D:\Durham\OOP\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+D:\Durham\OOP\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+D:\Durham\OOP\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csprojAssemblyReference.cache
+D:\Durham\OOP\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.Properties.Resources.resources
+D:\Durham\OOP\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csproj.GenerateResource.cache
+D:\Durham\OOP\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csproj.CoreCompileInputs.cache
+D:\Durham\OOP\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+D:\Durham\OOP\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csprojResolveAssemblyReference.cache
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.Properties.Resources.resources
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csproj.GenerateResource.Cache
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+C:\Users\16472\Desktop\Current Projects\OOP 4200\finalproj\end\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.Properties.Resources.resources
+C:\Users\steph\Desktop\FinalProjWork\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csproj.GenerateResource.cache

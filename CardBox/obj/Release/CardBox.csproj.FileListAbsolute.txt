@@ -1,0 +1,10 @@
+C:\Users\steph\Desktop\FinalProjWork\CardBox\bin\Release\CardBox.dll
+C:\Users\steph\Desktop\FinalProjWork\CardBox\bin\Release\CardBox.pdb
+C:\Users\steph\Desktop\FinalProjWork\CardBox\bin\Release\Ch13CardLib.dll
+C:\Users\steph\Desktop\FinalProjWork\CardBox\bin\Release\Ch13CardLib.pdb
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Release\CardBox.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Release\CardBox.CardBox.resources
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Release\CardBox.csproj.GenerateResource.cache
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Release\CardBox.csproj.CopyComplete
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Release\CardBox.dll
+C:\Users\steph\Desktop\FinalProjWork\CardBox\obj\Release\CardBox.pdb
